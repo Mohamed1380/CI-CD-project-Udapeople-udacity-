@@ -1,2 +1,2 @@
-S3 Bucket : http://udapeople-ade2241.s3-website-us-east-1.amazonaws.com
+S3 Bucket : http://udapeople-060e52b.s3-website-us-east-1.amazonaws.com/#/employees
 GitHub Link: https://github.com/Mohamed1380/Udapeople_project3
